@@ -79,7 +79,7 @@ h1, h2 {
     /*animates zoom effect on loading page*/
     animation-name: hero-zoom;
     animation-duration: 5s;
-    -o-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
 }
 
 /*creates level of zoom for hero image*/
